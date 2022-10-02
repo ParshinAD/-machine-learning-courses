@@ -1,6 +1,7 @@
 # ml_coursera
 
-This repository contains my solutions for some machine learning courses.
+Here, I'll put some notebooks from courses, seminars and lectures ;)
+
 
 1) DLSchool: https://stepik.org/course/101721/info
 2) Coursera: "Машинное обучение и анализ данных Specialization"
