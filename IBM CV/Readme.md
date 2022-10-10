@@ -1,6 +1,6 @@
-# ml_coursera
+# IBM Introduction to Computer Vision and Image Processing
 
-Here, I'll put some notebooks from courses, seminars and lectures ;)
+seminars and lectures from IBM CV course.
 
 
 | Technology  |  Link  |
