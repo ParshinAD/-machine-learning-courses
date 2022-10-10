@@ -14,4 +14,8 @@ Here, I'll put some notebooks from courses, seminars and lectures ;)
 | NN with Momentum | [here](https://github.com/ParshinAD/ml_coursera/blob/2db11182b523bcff70ca5b8a7aefe6981ecea4b3/IBM%20CV/2.7.3_Training_a_Neural_Network_with_Momentum.ipynb) |
 | CNN | [here](https://github.com/ParshinAD/ml_coursera/blob/2db11182b523bcff70ca5b8a7aefe6981ecea4b3/IBM%20CV/2.7.4_CNN.ipynb) |
 | Data Augmentation | [here](https://github.com/ParshinAD/ml_coursera/blob/2db11182b523bcff70ca5b8a7aefe6981ecea4b3/IBM%20CV/2.7.5_Data_Augmentation.ipynb) |
-
+| CNN classification | [here](https://github.com/ParshinAD/ml_coursera/blob/7a3f3ab04c5827e9e4864614d518dd1567094043/IBM%20CV/2.7.6_train-classification-cnn-pytorch.ipynb) |
+| Car Detection with Haar Cascade Classifier | [here](https://github.com/ParshinAD/ml_coursera/blob/7a3f3ab04c5827e9e4864614d518dd1567094043/IBM%20CV/2.8.1_use-objectdetection-haar-car.ipynb) |
+| Object detection with Faster R-CNN | [here](https://github.com/ParshinAD/ml_coursera/blob/7a3f3ab04c5827e9e4864614d518dd1567094043/IBM%20CV/2.8.2_use-objectdetection-faster-r-cnn.ipynb) |
+| Object Detection with CNN based on Tensorflow | [here](https://github.com/ParshinAD/ml_coursera/blob/7a3f3ab04c5827e9e4864614d518dd1567094043/IBM%20CV/2.8.3_train-objectdetection-cnn-tensorflow.ipynb) |
+| Transfer Learning with CNN For Classification with PyTorch | [here](https://github.com/ParshinAD/ml_coursera/blob/7a3f3ab04c5827e9e4864614d518dd1567094043/IBM%20CV/FINAL_train-classification-cnn-pytorch.ipynb) |
